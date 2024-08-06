@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7ed338e65337c610208e5ef0a0490ebf" label="weather details" max_length="40" name="x_1021112_weather_weather_details" type="collection">
+        <element label="condition" max_length="40" name="condition" type="string"/>
+        <element label="country" max_length="40" name="country" type="string"/>
+        <element label="Enter city name" max_length="40" name="enter_city_name" type="string"/>
+        <element label="region" max_length="40" name="region" type="string"/>
+        <element label="Temp c" max_length="40" name="temp_c" type="string"/>
+        <element label="Temp f" max_length="40" name="temp_f" type="string"/>
+    </element>
+</database>

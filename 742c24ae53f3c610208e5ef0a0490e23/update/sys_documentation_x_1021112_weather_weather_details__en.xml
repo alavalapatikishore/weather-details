@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="weather details" language="en" table="x_1021112_weather_weather_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>weather details</label>
+            <language>en</language>
+            <name>x_1021112_weather_weather_details</name>
+            <plural>weather details</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 12:34:47</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>weather details</sys_name>
+            <sys_package display_value="weather details " source="x_1021112_weather">742c24ae53f3c610208e5ef0a0490e23</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="weather details ">742c24ae53f3c610208e5ef0a0490e23</sys_scope>
+            <sys_update_name>sys_documentation_x_1021112_weather_weather_details__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 12:34:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

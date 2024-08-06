@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="b164b8e65337c610208e5ef0a0490ebb" sys_domain="global" table="x_1021112_weather_weather_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>enter_city_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 12:37:45</sys_created_on>
+            <sys_id>de94782a5337c610208e5ef0a0490e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_weather_weather_details" sys_domain="global" view="Default view">b164b8e65337c610208e5ef0a0490ebb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 12:37:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 12:37:45</sys_created_on>
+            <sys_id>5294782a5337c610208e5ef0a0490e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_weather_weather_details" sys_domain="global" view="Default view">b164b8e65337c610208e5ef0a0490ebb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 12:37:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 12:37:45</sys_created_on>
+            <sys_id>d294782a5337c610208e5ef0a0490e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_weather_weather_details" sys_domain="global" view="Default view">b164b8e65337c610208e5ef0a0490ebb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 12:37:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 12:37:45</sys_created_on>
+            <sys_id>5694782a5337c610208e5ef0a0490e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_weather_weather_details" sys_domain="global" view="Default view">b164b8e65337c610208e5ef0a0490ebb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 12:37:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>temp_c</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 12:37:45</sys_created_on>
+            <sys_id>d694782a5337c610208e5ef0a0490e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_weather_weather_details" sys_domain="global" view="Default view">b164b8e65337c610208e5ef0a0490ebb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 12:37:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>temp_f</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 12:37:45</sys_created_on>
+            <sys_id>5a94782a5337c610208e5ef0a0490e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_weather_weather_details" sys_domain="global" view="Default view">b164b8e65337c610208e5ef0a0490ebb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 12:37:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>condition</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 12:37:45</sys_created_on>
+            <sys_id>da94782a5337c610208e5ef0a0490e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_weather_weather_details" sys_domain="global" view="Default view">b164b8e65337c610208e5ef0a0490ebb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 12:37:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1021112_weather_weather_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 12:36:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b164b8e65337c610208e5ef0a0490ebb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1021112_weather_weather_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="weather details " source="x_1021112_weather">742c24ae53f3c610208e5ef0a0490e23</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="weather details ">742c24ae53f3c610208e5ef0a0490e23</sys_scope>
+            <sys_update_name>sys_ui_section_b164b8e65337c610208e5ef0a0490ebb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 12:36:54</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

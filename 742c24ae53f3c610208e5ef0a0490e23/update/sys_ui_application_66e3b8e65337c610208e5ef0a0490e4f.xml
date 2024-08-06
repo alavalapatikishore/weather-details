@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>weather details</name>
+        <order/>
+        <roles>x_1021112_weather.weather_details_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 12:34:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>66e3b8e65337c610208e5ef0a0490e4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>weather details</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="weather details " source="x_1021112_weather">742c24ae53f3c610208e5ef0a0490e23</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="weather details ">742c24ae53f3c610208e5ef0a0490e23</sys_scope>
+        <sys_update_name>sys_ui_application_66e3b8e65337c610208e5ef0a0490e4f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 12:34:46</sys_updated_on>
+    </sys_ui_application>
+</record_update>
